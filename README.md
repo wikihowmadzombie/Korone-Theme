@@ -1,4 +1,4 @@
-# Koromons-Theme
+# Korone Theme
 
 
 
